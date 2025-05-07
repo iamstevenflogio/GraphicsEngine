@@ -1,6 +1,6 @@
 # OneLoneCoder Learning Repository
 
-Welcome to my learning repository, where I follow along with the tutorials and lessons from **Javidx9**, the creator of [OneLoneCoder](https://www.youtube.com/c/OneLoneCoder)! This repository is dedicated to implementing concepts, projects, and experiments directly from his programming content.
+Welcome to my learning repository, where I follow along with the tutorials and lessons from **Javidx9**, [OneLoneCoder](https://www.youtube.com/@javidx9)! This repository is dedicated to implementing concepts, projects, and experiments directly from his programming content.
 
 ## What You'll Find Here
 
