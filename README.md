@@ -11,5 +11,4 @@ Welcome to my learning repository, where I follow along with the tutorials and l
 ### **Purpose**
 This repository serves as my personal workspace as I follow along with **Javidx9's** teachings, applying them hands-on and expanding my knowledge in game development and programming.
 
-### **Acknowledgments**
-A huge thanks to **Javidx9** and the OneLoneCoder community for providing invaluable resources for aspiring programmers. Check out [OneLoneCoder's YouTube channel]([https://www.youtube.com/c/OneLoneCoder](https://www.youtube.com/@javidx9)) to dive into these fantastic tutorials.
+
