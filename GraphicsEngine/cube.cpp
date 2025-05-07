@@ -1,4 +1,9 @@
-﻿#include "olcConsoleGameEngine.h"
+﻿/*  
+* 
+* // THIS WHOLE FILE IS COMMENTED, TO RUN RetroRacer.cpp
+* 
+* 
+#include "olcConsoleGameEngine.h"
 #include <math.h>
 using namespace std; // so, it's good practice to not use this? how?
 
@@ -209,3 +214,10 @@ int main()
     }
     return 0;
 }
+
+
+
+
+
+
+*/
