@@ -9,8 +9,7 @@ public:
 	}
 
 private:
-
-
+	float fCarPos = 0.0f;
 
 protected:
 	virtual bool OnUserCreate() {
@@ -47,6 +46,16 @@ protected:
 					Draw(x, nRow, PIXEL_SOLID, FG_GREY);
 			}
 		}
+
+		// Draw Car
+		int nCarPos = ScreenWidth() / 2 + ((int)(ScreenWidth() * fCarPos) / 2.0f) - 7; 
+		DrawStringAlpha(nCarPos, 80, L"   ||####||   ");
+		DrawStringAlpha(nCarPos, 81, L"      ##      ");
+		DrawStringAlpha(nCarPos, 82, L"     ####     ");
+		DrawStringAlpha(nCarPos, 83, L"     ####     ");
+		DrawStringAlpha(nCarPos, 84, L"|||  ####  |||");
+		DrawStringAlpha(nCarPos, 85, L"|||########|||");
+		DrawStringAlpha(nCarPos, 86, L"|||  ####  |||");
 
 		return true;
 	}
